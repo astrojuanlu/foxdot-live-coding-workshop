@@ -29,6 +29,18 @@ d1 >> play("x..ox.o.", dur=1/4)
 # Breakbeat I made up (I love this)
 d1 >> play("x . . xxo . . oox ox ox o . ****", dur=1/4)
 
+## Playing sounds
+Samples.addPath("/home/juanlu/Projects/Music/foxdot-live-coding-workshop")
+
+# `loop` changes the pitch to accomodate the tempo
+s1 >> loop("spinout", tempo=240, dur=4, lpf=1_000, hpf=0)
+s2 >> loop("spinout", P[:8] / 2, hpf=2_000, lpf=1_000)
+
+# `stretch` does not change the pitch
+# XXX: Seems to not work on my machine with these audio samples,
+# works fine with others
+s1 >> stretch("smb_pipe", dur=4)
+
 ## Melodies
 
 # You might know this one
