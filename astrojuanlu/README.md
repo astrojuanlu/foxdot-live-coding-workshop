@@ -10,13 +10,23 @@
 - Marc Rebillet's "How to funk in 2 minutes" https://youtu.be/3vBwRfQbXkg
 - "Keygen? What's that?" says the Gen Z https://youtu.be/BvWnwi-Kgm4
 - Luis Fonsi & Dadee Yankee feat. Square Waves https://youtu.be/siRMGLA6FsU
-- Cool visuals https://github.com/projectM-visualizer/projectm
 
 ## Sound effects
 
 - SNES Super Mario from https://www.mariomayhem.com/downloads/sounds/
 - Super Mario Kart from https://www.superluigibros.com/super-mario-allstars-sounds-wav
 - Others from https://soundeffects.fandom.com/
+
+## Tools
+
+- Collaborative live coding! https://github.com/Qirky/Troop
+- Cool visuals https://github.com/projectM-visualizer/projectm
+
+## Further reading
+
+- In-depth FoxDot workshop https://gitlab.com/iShapeNoise/foxdot_codingmusic_part1/
+- Advanced patterns by the FoxDot author https://github.com/Qirky/FoxDot-Worksheet/
+- Live coding book by [Alex McLean](https://en.wikipedia.org/wiki/Alex_McLean) https://livecodingbook.toplap.org/book/
 
 ## FoxDot Cheatsheet
 
