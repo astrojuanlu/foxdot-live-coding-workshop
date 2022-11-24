@@ -12,6 +12,12 @@
 - Luis Fonsi & Dadee Yankee feat. Square Waves https://youtu.be/siRMGLA6FsU
 - Cool visuals https://github.com/projectM-visualizer/projectm
 
+## Sound effects
+
+- SNES Super Mario from https://www.mariomayhem.com/downloads/sounds/
+- Super Mario Kart from https://www.superluigibros.com/super-mario-allstars-sounds-wav
+- Others from https://soundeffects.fandom.com/
+
 ## FoxDot Cheatsheet
 
 | Number | Anglo | Latin |
